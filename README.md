@@ -1,7 +1,7 @@
 ### Olá Seja Bem Vindo!!! Me chamo EDUARDO ARAÚJO DOS SANTOS 👋
 
 - 🔭 Atualmente estou programando com PHP LARAVEL
-- 🌱 Estudando Sistemas de Informação e Análise de Dados
+- 🌱 Formado em Sistemas de Informação
 - 😄 Pronouns: Ele/Dele
 
 <div>
