@@ -18,7 +18,7 @@
   <img align="center" alt="Edu-LARAVEL" height="30" width="60"  SRC="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Edu-MYSQL" height="30" width="60"  SRC="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Edu-C#" height="30" width="40"  SRC="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
-  <img align="center" alt="Edu-OUTSYSTEMS" height="30" width="60"  SRC="https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=24252">
+  <img align="center" alt="Edu-OUTSYSTEMS" height="30" width="60"  SRC="https://cdn-1.webcatalog.io/catalog/outsystems/outsystems-icon-filled-256.png?v=1675593651385">
 
 
   </div>
